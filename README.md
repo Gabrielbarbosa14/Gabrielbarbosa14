@@ -1,11 +1,12 @@
-## Hi there 👋
+## Olá, eu sou o Gabriel👋
 
-Me chamo Gabriel, dev front-end atuando atualmente no Brasil.
+Desenvolvedor Front-End Júnior focado em criar sites únicos, criativos e com alta atenção aos mínimos detalhes.
 
-Construo e faço qualquer site que você possa imaginar.
+Tenho prazer em Tirar ideias do papel e as transformar em interfaces surpreendentes que fogem desse padrão atual.
 
-Criatividade e atenção nos minimos detalhes, designs completamente diferentes dos comumente encontrados por aí...
+🚀 No meu ecossistema de desenvolvimento você vai encontrar: React, JavaScript, HTML, CSS e animações fluidas com GSAP,
+além de uma base sólida em SQL.
 
-Minhas principais tecnologias são react, css, javascript, gsap e sql. Minhas ferramentas favoritas são o figma, photoshop e notion.
+❤️ Amante do Figma, Photoshop e Notion
 
-Todos os meus projetos são fenomenais, mas o [meu portifólio](https://gabrielbarbosa14.github.io/portifolio/) é especial✨✨
+Tenho orgulho de cada projeto que desenvolvo, mas o [meu portifólio](https://gabrielbarbosa14.github.io/portfolio/) é especial✨
