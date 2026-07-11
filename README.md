@@ -4,7 +4,8 @@ Desenvolvedor Front-End Júnior focado em criar sites únicos, criativos e com a
 
 Tenho prazer em tirar ideias do papel e transformá-las em interfaces surpreendentes que fogem desse padrão atual.
 
-🚀 No meu ecossistema de desenvolvimento você vai encontrar: React, JavaScript, HTML, CSS e animações fluidas com GSAP, além de uma base sólida em SQL.
+🚀 No meu ecossistema de desenvolvimento você vai encontrar: React, JavaScript, HTML, CSS e animações fluidas com GSAP.
+Além de uma base sólida em SQL.
 
 ❤️ Amante do Figma, Photoshop e Notion
 
