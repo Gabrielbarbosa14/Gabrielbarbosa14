@@ -67,3 +67,7 @@ Tenho prazer em tirar conceitos do papel e transformá-los em experiências marc
 ❤️ Amante do Figma, Photoshop e Notion
 
 Tenho orgulho de cada projeto que desenvolvo, mas o [meu portfólio](https://gabrielbarbosa14.github.io/portfolio/) é especial ✨
+
+<p align="left">
+<a href="www.linkedin.com/in/gabrielbarbosa14" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:gabrielbferreira31@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
