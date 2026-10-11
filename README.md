@@ -64,7 +64,6 @@ Tenho prazer em tirar conceitos do papel e transformá-los em experiências marc
 />
 <br clear="all">
 <br>
-
 ❤️ Amante do Figma, Photoshop e Notion
 
 Tenho orgulho de cada projeto que desenvolvo, mas o [meu portfólio](https://gabrielbarbosa14.github.io/portfolio/) é especial ✨
